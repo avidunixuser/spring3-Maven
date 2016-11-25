@@ -1,3 +1,5 @@
+// This is a sample spring project 
+
 package com.nitin.web.controller;
 
 import org.springframework.stereotype.Controller;
